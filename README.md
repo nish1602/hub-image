@@ -1,5 +1,4 @@
 # hub-image
-# My Project
 
 Clickable image with redirection:
 
